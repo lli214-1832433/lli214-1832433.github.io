@@ -1,0 +1,115 @@
+body {
+    background-image: url('background-crumpled-paper-sheet_1194-7545.jpg');
+
+}
+div{
+    background-color: #b9adc5;
+}
+p {
+    font-weight: bold;
+    color: #696969;
+    font-family: Arial, Helvetica, sans-serif
+
+}
+
+
+h3 {
+    color: #ffbc00;
+    font-size: 30px;
+    margin-bottom: 0px;
+    font-family: "passion one";
+
+}
+h4 {
+    color: #ffbc00;
+    font-size: 30px;
+    margin-bottom: 0px;
+    font-family: "passion one";
+
+}
+h5 {
+    color: #e01818;
+    font-size: 30px;
+    margin-bottom: 0px;
+    font-family: "passion one";
+
+}
+#Header {
+    border: solid 8px rgb(238, 220, 220);
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+#Header h1 {    
+    color: #AA8439; 
+    font-size: 60px;
+    font-family: "passion one";
+    font-weight: bold;
+
+}
+#LeftNav {
+    border: solid 8px rgb(86, 79, 117);
+    width: 200px;
+    float: left;
+    text-align: center;
+
+}
+#LeftNav img {
+
+
+}
+#LeftNav ul {
+ 
+    
+}
+#LeftNav h3 {
+
+
+}
+#RightNav {
+    border: solid 8px rgb(86, 79, 117);
+    width: 200px;
+    float: right;
+    text-align: center;
+
+}
+#RightNav img {
+
+
+}
+#RightNav ul {
+ 
+    
+}
+#RightNav h3 {
+
+
+}
+#Content {
+    border: dotted  8px black; 
+    width: 700px;
+    margin-left: 270px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+   
+
+}
+#centered{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   
+}
+#Footer {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 50px;
+    text-align: center;
+    background-image: url(red.png);
+    height: 200px ;
+}
